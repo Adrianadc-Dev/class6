@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2? family= Frank+Ruhl+Libre & display=swap');
+body{
+    background-color: #e6e6e6;
+}
+/* #img{
+    align-content: center;
+} */
+#image{
+    padding: 10px;
+    width: 100px;
+}
+#liNav{
+    font-size: 20px;
+}
+.hv{
+    margin: 20px;
+    background-color: white;
+}
+.sup{
+    height: 100px;
+}
+.datosp{
+    background-color: white;
+}
+h1, h2{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    padding: 5px;
+}
+h2{
+    
+    font-size: 15px;
+    padding: 3px;
+}
+ul{
+    font-size: 12px;
+}
+.identado{
+    margin-left: 64px;
+}
+.vacio{
+    height: 50px;
+}
+
+#listf{
+    color: white;
+    background-color: #005677;
+    text-align: center;
+   
+}
+   
+.inf{
+    display: inline-block;
+    font-size: 25px;
+}
+#psobre{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 28px;
+    padding: 50px;
+}
+#lisobre{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 20px;
+}
